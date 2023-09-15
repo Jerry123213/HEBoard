@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=KEY_2 Pin=U1-40
+Removed Pin From Net: NetName=KEY_1 Pin=U1-41
+Change Component Description : Designator=U2 Old Description=analog Hall Effect Sensor 1.5 mA 2.7 - 6.5 V dc New Description=analog Hall Effect Sensor 1.5 mA 2.7 - 6.5 V dc | Honeywell SS39ET
+Change Component Description : Designator=U3 Old Description=analog Hall Effect Sensor 1.5 mA 2.7 - 6.5 V dc New Description=analog Hall Effect Sensor 1.5 mA 2.7 - 6.5 V dc | Honeywell SS39ET
+Added Pin To Net: NetName=KEY_1 Pin=U1-40
+Added Pin To Net: NetName=KEY_2 Pin=U1-41
