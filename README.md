@@ -12,11 +12,25 @@ The HEBoard (Hall-Effect Board) is an analog hall-effect Keypad capable of adjus
 * "Rapid Trigger" with adjustable press and release thresholds down to 0.1mm
 * Adjustable Actuation Force (WIP)
 
+### Next Step: Implement Adjustable Actuation Force Hardware
+There are two options for adjustable actuation force. The original idea was to wind an electromagnet larger than the area of both switches such that the switches rest inside the solenoid. The magnetic field would be used to repel the magnet inside the switch, and adjusting the PWM-cycle of the electromagnet would alter the strength of the field. 
+
+* Issues
+  * Due to size, would likely require external power source (not from MCU or USB), which increases footprint of device
+  * A coil's volume is constant, therefore, regardless of the coil shape, footprint would still be large
+  * Possible heat dissipation issues, especially bad since HEBoard is a HID
+  * Not scalable, or incredibly hard to scale
+  * Possible EMI? 
+
+Current idea is to make use of PCB coils. Rather than winding one large electromagnet, each switch can have its own PCB coil directly underneath, allowing for scalability. Due to proximity to switch, the size can be reduced, and won't need to be especially strong (for keyboards a 20g difference in actuation force is large).
+
+* Issues
+  * There is very little documentation on PCB coils compared to conventional electromagnets
+  * Power is still an issue, but this requires testing (no documentation on the magnet inside Lekker switch, which makes calculations difficult)
+  * Possibly expensive depending on coil required, especially if a stronger magnetic field is needed (stronger magnetic field requires more PB layers)
+ 
 ### Implemented Hardware
 First and second revisions of PCB have been made. Third one should be the final one. Planning to transition to 4-layer PCB with a ground and power plane for cleaner routing and better signal integrity. Decoupling capacitors used on ss49E to smooth out resting voltage.
-
-#### Next Step: Implement Adjustable Actuation Force Hardware
-
 
 #### Technical Specs: 
 * Wooting Lekker Switch 
