@@ -27,7 +27,7 @@ Current idea is to make use of PCB coils. Rather than winding one large electrom
 * Issues
   * There is very little documentation on PCB coils compared to conventional electromagnets
   * Power is still an issue, but this requires testing (no documentation on the magnet inside Lekker switch, which makes calculations difficult)
-  * Possibly expensive depending on coil required, especially if a stronger magnetic field is needed (stronger magnetic field requires more PB layers)
+  * Possibly expensive depending on coil required, especially if a stronger magnetic field is needed (stronger magnetic field requires more PCB layers)
  
 ### Implemented Hardware
 First and second revisions of PCB have been made. Third one should be the final one. Planning to transition to 4-layer PCB with a ground and power plane for cleaner routing and better signal integrity. Decoupling capacitors used on ss49E to smooth out resting voltage.
