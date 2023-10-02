@@ -30,7 +30,7 @@ Current idea is to make use of PCB coils. Rather than winding one large electrom
   * Possibly expensive depending on coil required, especially if a stronger magnetic field is needed (stronger magnetic field requires more PCB layers)
  
 ### Implemented Hardware
-First and second revisions of PCB have been made. Third one should be the final one. Planning to transition to 4-layer PCB with a ground and power plane for cleaner routing and better signal integrity. Decoupling capacitors used on ss49E to smooth out resting voltage.
+Third revision of PCB is complete. Updated to a two-layer PCB with ground pours on both layers. Updated from micro-USB to USB-C 2.0. Better trace routing for better signal integrity across differential pairs (D+ and D-) as well as analog output of switches. Via switching across D+ and D- to ensure simple ground return. 
 
 #### Technical Specs: 
 * Wooting Lekker Switch 
