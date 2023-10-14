@@ -36,8 +36,8 @@ Third revision of PCB is complete. Updated to a two-layer PCB with ground pours 
 * Wooting Lekker Switch 
   * Normal Bottom Out Force: 45g or 65g depending on model
   * 4mm of Travel
-* SS49E Linear Hall-Effect Sensor
-* USB-C Port
+* SS39E Linear Hall-Effect Sensor
+* USB-C 2.0 Port
 * ATMega32u4 Microcontroller Flashed with Arduino Pro Micro Firmware
 
 ### Implemented Firmware
@@ -47,5 +47,10 @@ Third revision of PCB is complete. Updated to a two-layer PCB with ground pours 
 * Firmware for adjustable acutation point is done
   * Partitioned delta between resting voltage and bottom-out voltage into 40 parts, resulting in a distance of 0.1mm per part. User-set acutation point is defined as a multiple of said parts
 * Firmware for calibration is done
-  * To find resting/bottom out voltage, calibration mode asks user to fully depress switch for given time, and takes the average voltage reading, storing it into memory  
+  * To find resting/bottom out voltage, calibration mode asks user to fully depress switch for given time, and takes the average voltage reading, storing it into memory
+
+### Future Improvements (Unconfirmed)
+* Low-Level or QMK Firmware
+* Adjustable Acutation Force (Both firmware and hardware required)
+* Front-end Application to make user-experience smoother
   
