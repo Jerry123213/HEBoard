@@ -53,4 +53,4 @@ Third revision of PCB is complete. Updated to a two-layer PCB with ground pours 
 * Low-Level or QMK firmware
 * Adjustable acutation force (both firmware and hardware required)
 * Front-end application to make user-experience smoother
-* May switch to USB 3.0 for max 2A of current (compared to 0.5A of USB 2.0)
+* May switch to USB 3.0 for higher current draw
