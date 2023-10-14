@@ -50,7 +50,7 @@ Third revision of PCB is complete. Updated to a two-layer PCB with ground pours 
   * To find resting/bottom out voltage, calibration mode asks user to fully depress switch for given time, and takes the average voltage reading, storing it into memory
 
 ### Future Improvements (Unconfirmed)
-* Low-Level or QMK Firmware
-* Adjustable Acutation Force (Both firmware and hardware required)
-* Front-end Application to make user-experience smoother
-  
+* Low-Level or QMK firmware
+* Adjustable acutation force (both firmware and hardware required)
+* Front-end application to make user-experience smoother
+* May switch to USB 3.0 for max 2A of current (compared to 0.5A of USB 2.0)
