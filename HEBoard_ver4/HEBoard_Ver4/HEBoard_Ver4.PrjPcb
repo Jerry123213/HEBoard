@@ -170,7 +170,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=PCB1.PcbDoc
+DocumentPath=HEBoard_ver4.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -204,6 +204,10 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs\Design Rule Check - HEBoard_ver4.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
