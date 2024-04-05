@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\New folder\HEBoard\HEBoard_ver4\HEBoard_Ver4\HEBoard_ver4.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=_pcb pn_-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=_pcb pn_-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

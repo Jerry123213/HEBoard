@@ -1,0 +1,65 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\New folder\HEBoard\HEBoard_ver4\HEBoard_Ver4\Project Outputs\Assembly\Pick Place\_PCB PN_.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/04/24
+Time:       00:42
+Revision:   5f001cf9b8c8c915b549f733651b659468359c84
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"P1","61300211121","TopLayer","61300211121","96.3709","58.0136","270",""
+"U3","SS39ET","BottomLayer","CHRY-MX1A-11NW_V","100.0000","20.0000","0","analog Hall Effect Sensor 1.5 mA 2.7 - 6.5 V dc | Honeywell SS39ET"
+"U2","SS39ET","BottomLayer","CHRY-MX1A-11NW_V","119.0500","20.0000","0","analog Hall Effect Sensor 1.5 mA 2.7 - 6.5 V dc | Honeywell SS39ET"
+"Y1","12MHz","TopLayer","XTAL_ABM8G-12.000MHZ-4Y-T3","115.6716","39.3954","0","12 MHz Â±30ppm Crystal 10pF 120 Ohms 4-SMD, No Lead"
+"U","NCP1117LPST33T3G","BottomLayer","SOT230P700X175-4N","124.3584","62.2300","0","Linear Voltage Regulator IC 1 Output 1A SOT-223"
+"U8","IC OPAMP GP 1 CIRCUIT SOT23-5","BottomLayer","SOT_23-5","104.4160","32.8780","180","General Purpose Amplifier 1 Circuit Rail-to-Rail SOT-23-5"
+"U7","IC OPAMP GP 1 CIRCUIT SOT23-5","BottomLayer","SOT_23-5","95.0790","32.8780","180","General Purpose Amplifier 1 Circuit Rail-to-Rail SOT-23-5"
+"U6","IC OPAMP GP 1 CIRCUIT SOT23-5","BottomLayer","SOT_23-5","123.4660","32.8778","180","General Purpose Amplifier 1 Circuit Rail-to-Rail SOT-23-5"
+"U5","IC OPAMP GP 1 CIRCUIT SOT23-5","BottomLayer","SOT_23-5","114.5794","32.8780","180","General Purpose Amplifier 1 Circuit Rail-to-Rail SOT-23-5"
+"U4","W25Q128JVSIQ","TopLayer","SOIC127P790X216-8N","106.6292","57.7596","270","FLASH - NOR Memory IC 128Mb (16M x 8) SPI - Quad I/O, QPI, DTR 133 MHz 8-SOIC"
+"U1","RP2040_1","TopLayer","QFN40P700X700X90-57N","116.9196","46.9586","0","RP2040 chip for Raspberry Pi Pico - ARMÂ® CortexÂ®-M0+ MCU 32-Bit"
+"SW2","PTS815 SJM 250 SMTR LFS","TopLayer","SW4_PTS815_SJM_250_SMTR_LFS_CNK","126.7460","38.1254","270","No Description Available"
+"SW1","PTS815 SJM 250 SMTR LFS","TopLayer","SW4_PTS815_SJM_250_SMTR_LFS_CNK","102.6414","45.8470","90","No Description Available"
+"R19","RES 5.1K OHM 1% 1/10W 0603","BottomLayer","RES_0603_1608","102.6880","29.4132","0","5.1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R18","RES 1.6K OHM 1% 1/10W 0603","BottomLayer","RES_0603_1608","106.4808","29.4462","0","1.6 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R17","RES 1.6K OHM 1% 1/10W 0603","BottomLayer","RES_0603_1608","98.6350","33.1470","90","1.6 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R16","RES 4.7K OHM","BottomLayer","RES_0603_1608","97.1550","29.4390","0","Fixed Resistor, Metal Glaze/thick Film, 0.1W, 4700ohm, 75V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603"
+"R15","RES 5.1K OHM 1% 1/10W 0603","BottomLayer","RES_0603_1608","105.1478","35.8884","0","5.1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R14","RES 2.21K OHM","BottomLayer","RES_0603_1608","93.6720","29.4390","0","2.21 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film"
+"R13","RES 5.1K OHM 1% 1/10W 0603","BottomLayer","RES_0603_1608","121.4556","29.4386","0","5.1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R12","RES 1.6K OHM 1% 1/10W 0603","BottomLayer","RES_0603_1608","125.5500","29.4386","0","1.6 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R11","RES 1.6K OHM 1% 1/10W 0603","BottomLayer","RES_0603_1608","118.1354","33.1470","90","1.6 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R10","RES 4.7K OHM","BottomLayer","RES_0603_1608","116.6620","29.4386","0","Fixed Resistor, Metal Glaze/thick Film, 0.1W, 4700ohm, 75V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603"
+"R9","RES 5.1K OHM 1% 1/10W 0603","BottomLayer","RES_0603_1608","124.1858","35.8805","0","5.1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R8","RES 2.21K OHM","BottomLayer","RES_0603_1608","113.1790","29.4386","0","2.21 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film"
+"R7","RES 1K OHM 1% 1/10W 0603","TopLayer","RES_0603_1608","102.2350","50.3682","0","1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R6","RES 22.1 OHM 1% 1/10W 0603","TopLayer","RES_0603_1608","117.1230","60.3500","90","Fixed Resistor, Metal Glaze/thick Film, 0.1W, 22.1ohm, 75V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603"
+"R5","RES 22.1 OHM 1% 1/10W 0603","TopLayer","RES_0603_1608","119.1240","60.3504","90","Fixed Resistor, Metal Glaze/thick Film, 0.1W, 22.1ohm, 75V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603"
+"R4","RES 5.1K OHM 1% 1/10W 0603","TopLayer","RES_0603_1608","120.8274","66.0270","90","5.1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R3","RES 5.1K OHM 1% 1/10W 0603","TopLayer","RES_0603_1608","114.4274","66.0270","90","5.1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R2","RES 1K OHM 1% 1/10W 0603","TopLayer","RES_0603_1608","118.5418","40.1170","270","1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R1","RES 1K OHM 1% 1/10W 0603","TopLayer","RES_0603_1608","124.5518","43.6780","0","1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"","216990-0001","TopLayer","FP-216990-0001-MFG","117.6270","72.6670","180","CONN RCP USB2.0 TYP C 24P SMD RA"
+"D1","PRTR5V0U2X,215","TopLayer","FP-SOT143B-MFG","118.1235","65.0770","0","TVS DIODE 5.5V SOT143B"
+"C18","CAP CER 10UF 25V 20% X5R 0603","BottomLayer","CAP_0603_1608","126.8222","66.8274","180","10µF ±20% 25V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"C17","CAP CER 10UF 25V 20% X5R 0603","BottomLayer","CAP_0603_1608","121.8946","66.8274","180","10µF ±20% 25V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"C16","CAP CER 0.1UF 100V 10% X7R 0603","TopLayer","CAP_0603_1608","110.8202","54.8386","270","Ceramic Capacitor, Multilayer, Ceramic, 100V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C15","CAP CER 0.1UF 100V 10% X7R 0603","BottomLayer","CAP_0603_1608","102.8192","20.4724","270","Ceramic Capacitor, Multilayer, Ceramic, 100V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C14","CAP CER 0.1UF 100V 10% X7R 0603","TopLayer","CAP_0603_1608","112.9260","53.7464","270","Ceramic Capacitor, Multilayer, Ceramic, 100V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C13","CAP CER 0.1UF 100V 10% X7R 0603","TopLayer","CAP_0603_1608","122.7191","40.1170","90","Ceramic Capacitor, Multilayer, Ceramic, 100V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C12","CAP CER 1UF 50V X5R 0603","TopLayer","CAP_0603_1608","119.3770","53.7464","270","1µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C11","CAP CER 0.1UF 100V 10% X7R 0603","BottomLayer","CAP_0603_1608","121.7930","20.4724","270","Ceramic Capacitor, Multilayer, Ceramic, 100V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C10","CAP CER 0.1UF 100V 10% X7R 0603","TopLayer","CAP_0603_1608","110.0182","45.9586","0","Ceramic Capacitor, Multilayer, Ceramic, 100V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C9","CAP CER 0.1UF 100V 10% X7R 0603","TopLayer","CAP_0603_1608","124.5616","49.5586","180","Ceramic Capacitor, Multilayer, Ceramic, 100V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C8","CAP CER 0.1UF 100V 10% X7R 0603","TopLayer","CAP_0603_1608","116.8774","53.7464","270","Ceramic Capacitor, Multilayer, Ceramic, 100V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C7","CAP CER 0.1UF 100V 10% X7R 0603","TopLayer","CAP_0603_1608","120.7008","40.1174","90","Ceramic Capacitor, Multilayer, Ceramic, 100V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C6","CAP CER 0.1UF 100V 10% X7R 0603","TopLayer","CAP_0603_1608","110.0182","48.9542","0","Ceramic Capacitor, Multilayer, Ceramic, 100V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C5","CAP CER 0.1UF 100V 10% X7R 0603","TopLayer","CAP_0603_1608","124.5620","45.9586","180","Ceramic Capacitor, Multilayer, Ceramic, 100V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C4","CAP CER 0.1UF 100V 10% X7R 0603","TopLayer","CAP_0603_1608","124.5518","51.4147","180","Ceramic Capacitor, Multilayer, Ceramic, 100V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0603"
+"C3","CAP CER 1UF 50V X5R 0603","TopLayer","CAP_0603_1608","121.3104","53.7464","270","1µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C2","15pF","TopLayer","FP-CC0603-0_9-MFG","112.7760","39.7510","270","CAP CER 15PF 50V C0G/NPO 0603"
+"C1","15pF","TopLayer","FP-CC0603-0_9-MFG","118.5418","36.9570","270","CAP CER 15PF 50V C0G/NPO 0603"

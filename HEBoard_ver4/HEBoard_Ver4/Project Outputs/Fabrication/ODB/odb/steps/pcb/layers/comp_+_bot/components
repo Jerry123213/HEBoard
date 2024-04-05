@@ -1,0 +1,300 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 2 3.9370079 0.7874016 180 N U3 SS39ET ;0=1,1=0.5984
+PRP Check_prices 'https://www.snapeda.com/parts/SS39ET/Honeywell+Sensing+and+Productivity+Solutions/view-part/?ref=eda'
+PRP MF 'Honeywell Sensing and Productivity Solutions'
+PRP MP 'SS39ET'
+PRP Package 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SS39ET/Honeywell+Sensing+and+Productivity+Solutions/view-part/?ref=snap'
+PRP Value ''
+TOP 0 3.8970079 0.8324016 90 N 32 32 1
+TOP 1 3.9770079 0.8324016 90 N 29 2 2
+TOP 2 3.9370079 0.7424016 90 N 23 19 3
+TOP 3 3.7370079 0.7874016 0 N 0 2 MH2
+TOP 4 4.1370079 0.7874016 0 N 0 3 MH3
+#
+# CMP 1
+CMP 2 4.6870079 0.7874016 180 N U2 SS39ET ;0=1,1=0.5984
+PRP Check_prices 'https://www.snapeda.com/parts/SS39ET/Honeywell+Sensing+and+Productivity+Solutions/view-part/?ref=eda'
+PRP MF 'Honeywell Sensing and Productivity Solutions'
+PRP MP 'SS39ET'
+PRP Package 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SS39ET/Honeywell+Sensing+and+Productivity+Solutions/view-part/?ref=snap'
+PRP Value ''
+TOP 0 4.6470079 0.8324016 90 N 32 16 1
+TOP 1 4.7270079 0.8324016 90 N 30 2 2
+TOP 2 4.6870079 0.7424016 90 N 23 11 3
+TOP 3 4.4870079 0.7874016 0 N 0 0 MH2
+TOP 4 4.8870079 0.7874016 0 N 0 1 MH3
+#
+# CMP 2
+CMP 10 4.896 2.45 180 N U NCP1117LPST33T3G ;0=1,1=0.0000
+PRP Availability 'Unavailable'
+PRP MF 'ON Semiconductor'
+PRP MP 'NCP1117LPST33T3G'
+PRP Package 'SOT-223 ON Semiconductor'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/NCP1117LPST33T3G/ON%20Semiconductor/view-part/421194/?ref=snap'
+PRP Value ''
+TOP 0 4.7719843 2.3594488 270 N 23 7 1
+TOP 1 4.7719843 2.45 270 N 32 6 2
+TOP 2 4.7719843 2.5405512 270 N 31 2 3
+TOP 3 5.0200157 2.45 270 N 32 3 4
+#
+# CMP 3
+CMP 9 4.1108661 1.2944094 0 N U8 IC_OPAMP_GP_1_CIRCUIT_SOT23-5 ;0=1,1=0.0571
+PRP Case/Package 'SOT-23-5'
+PRP Manufacturer_1 'TI'
+PRP Manufacturer_Part_Number 'TLV9051IDBVR'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Supply_Voltage '5.5V'
+PRP Min_Operating_Temperature '-40°C'
+PRP Min_Supply_Voltage '1.8V'
+PRP Mounting_Technology 'Surface Mount'
+PRP Pins '5'
+PRP RoHS_Compliant ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '296-TLV9051IDBVRCT-ND'
+TOP 0 4.1659842 1.331811 270 N 27 0 1
+TOP 1 4.1659842 1.2944094 270 N 23 14 2
+TOP 2 4.1659842 1.2570079 270 N 11 0 3
+TOP 3 4.055748 1.2570079 270 N 13 0 4
+TOP 4 4.055748 1.331811 270 N 32 29 5
+#
+# CMP 4
+CMP 9 3.7432677 1.2944094 0 N U7 IC_OPAMP_GP_1_CIRCUIT_SOT23-5 ;0=1,1=0.0571
+PRP Case/Package 'SOT-23-5'
+PRP Manufacturer_1 'TI'
+PRP Manufacturer_Part_Number 'TLV9051IDBVR'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Supply_Voltage '5.5V'
+PRP Min_Operating_Temperature '-40°C'
+PRP Min_Supply_Voltage '1.8V'
+PRP Mounting_Technology 'Surface Mount'
+PRP Pins '5'
+PRP RoHS_Compliant ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '296-TLV9051IDBVRCT-ND'
+TOP 0 3.7983858 1.331811 270 N 12 0 1
+TOP 1 3.7983858 1.2944094 270 N 23 15 2
+TOP 2 3.7983858 1.2570079 270 N 14 0 3
+TOP 3 3.6881496 1.2570079 270 N 12 1 4
+TOP 4 3.6881496 1.331811 270 N 32 30 5
+#
+# CMP 5
+CMP 9 4.8608661 1.2944015 0 N U6 IC_OPAMP_GP_1_CIRCUIT_SOT23-5 ;0=1,1=0.0571
+PRP Case/Package 'SOT-23-5'
+PRP Manufacturer_1 'TI'
+PRP Manufacturer_Part_Number 'TLV9051IDBVR'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Supply_Voltage '5.5V'
+PRP Min_Operating_Temperature '-40°C'
+PRP Min_Supply_Voltage '1.8V'
+PRP Mounting_Technology 'Surface Mount'
+PRP Pins '5'
+PRP RoHS_Compliant ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '296-TLV9051IDBVRCT-ND'
+TOP 0 4.9159842 1.3318031 270 N 28 0 1
+TOP 1 4.9159842 1.2944015 270 N 23 10 2
+TOP 2 4.9159842 1.257 270 N 15 1 3
+TOP 3 4.805748 1.257 270 N 17 0 4
+TOP 4 4.805748 1.3318031 270 N 32 13 5
+#
+# CMP 6
+CMP 9 4.511 1.2944094 0 N U5 IC_OPAMP_GP_1_CIRCUIT_SOT23-5 ;0=1,1=0.0571
+PRP Case/Package 'SOT-23-5'
+PRP Manufacturer_1 'TI'
+PRP Manufacturer_Part_Number 'TLV9051IDBVR'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Supply_Voltage '5.5V'
+PRP Min_Operating_Temperature '-40°C'
+PRP Min_Supply_Voltage '1.8V'
+PRP Mounting_Technology 'Surface Mount'
+PRP Pins '5'
+PRP RoHS_Compliant ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '296-TLV9051IDBVRCT-ND'
+TOP 0 4.5661181 1.331811 270 N 16 0 1
+TOP 1 4.5661181 1.2944094 270 N 23 13 2
+TOP 2 4.5661181 1.2570079 270 N 18 2 3
+TOP 3 4.4558819 1.2570079 270 N 16 1 4
+TOP 4 4.4558819 1.331811 270 N 32 27 5
+#
+# CMP 7
+CMP 7 4.0428346 1.1579999 180 N R19 RES_5.1K_OHM_1%_1/10W_0603 ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '5.1k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 4.0162598 1.1579999 90 N 23 18 1
+TOP 1 4.0694094 1.1579999 90 N 11 2 2
+#
+# CMP 8
+CMP 7 4.1921582 1.1592992 180 N R18 RES_1.6K_OHM_1%_1/10W_0603 ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '1.6k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 4.1655834 1.1592992 90 N 11 1 1
+TOP 1 4.218733 1.1592992 90 N 29 0 2
+#
+# CMP 9
+CMP 7 3.8832677 1.3050003 270 N R17 RES_1.6K_OHM_1%_1/10W_0603 ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '1.6k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 3.8832677 1.2784255 0 N 13 1 1
+TOP 1 3.8832677 1.3315751 0 N 12 2 2
+#
+# CMP 10
+CMP 7 3.825 1.1590157 180 N R16 RES_4.7K_OHM ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '4.7k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 3.7984252 1.1590157 90 N 14 2 1
+TOP 1 3.8515748 1.1590157 90 N 23 16 2
+#
+# CMP 11
+CMP 7 4.1396779 1.4129279 180 N R15 RES_5.1K_OHM_1%_1/10W_0603 ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '5.1k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 4.1131031 1.4129279 90 N 13 2 1
+TOP 1 4.1662527 1.4129279 90 N 27 1 2
+#
+# CMP 12
+CMP 7 3.687874 1.1590155 180 N R14 RES_2.21K_OHM ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '2.21k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 3.6612992 1.1590155 90 N 32 31 1
+TOP 1 3.7144488 1.1590155 90 N 14 1 2
+#
+# CMP 13
+CMP 7 4.7817171 1.1589999 180 N R13 RES_5.1K_OHM_1%_1/10W_0603 ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '5.1k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 4.7551423 1.1589999 90 N 23 17 1
+TOP 1 4.8082919 1.1589999 90 N 15 2 2
+#
+# CMP 14
+CMP 7 4.9429135 1.1589999 180 N R12 RES_1.6K_OHM_1%_1/10W_0603 ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '1.6k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 4.9163387 1.1589999 90 N 15 0 1
+TOP 1 4.9694883 1.1589999 90 N 30 1 2
+#
+# CMP 15
+CMP 7 4.651 1.305 270 N R11 RES_1.6K_OHM_1%_1/10W_0603 ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '1.6k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 4.651 1.2784252 0 N 17 1 1
+TOP 1 4.651 1.3315748 0 N 16 2 2
+#
+# CMP 16
+CMP 7 4.5929921 1.159 180 N R10 RES_4.7K_OHM ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '4.7k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 4.5664173 1.159 90 N 18 1 1
+TOP 1 4.6195669 1.159 90 N 23 12 2
+#
+# CMP 17
+CMP 7 4.8892027 1.4126167 180 N R9 RES_5.1K_OHM_1%_1/10W_0603 ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '5.1k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 4.8626279 1.4126167 90 N 17 2 1
+TOP 1 4.9157775 1.4126167 90 N 28 1 2
+#
+# CMP 18
+CMP 7 4.4558661 1.1589999 180 N R8 RES_2.21K_OHM ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '2.21k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 4.4292913 1.1589999 90 N 32 28 1
+TOP 1 4.4824409 1.1589999 90 N 18 0 2
+#
+# CMP 19
+CMP 1 4.993 2.631 0 N C18 CAP_CER_10UF_25V_20%_X5R_0603 ;0=1,1=0.0350
+PRP Capacitance '10µF'
+PRP Case/Package '0603'
+PRP Dielectric_Code 'X5R'
+PRP Tolerance '20%'
+PRP Voltage_Rating '25V'
+TOP 0 5.0195748 2.631 270 N 32 2 1
+TOP 1 4.9664252 2.631 270 N 23 6 2
+#
+# CMP 20
+CMP 1 4.799 2.631 0 N C17 CAP_CER_10UF_25V_20%_X5R_0603 ;0=1,1=0.0350
+PRP Capacitance '10µF'
+PRP Case/Package '0603'
+PRP Dielectric_Code 'X5R'
+PRP Tolerance '20%'
+PRP Voltage_Rating '25V'
+TOP 0 4.8255748 2.631 270 N 23 5 1
+TOP 1 4.7724252 2.631 270 N 31 1 2
+#
+# CMP 21
+CMP 1 4.048 0.806 90 N C15 CAP_CER_0.1UF_100V_10%_X7R_0603 ;0=1,1=0.0350
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Dielectric_Code 'X7R'
+PRP Tolerance '10%'
+PRP Voltage_Rating '100V'
+TOP 0 4.048 0.8325748 180 N 29 1 1
+TOP 1 4.048 0.7794252 180 N 23 9 2
+#
+# CMP 22
+CMP 1 4.795 0.806 90 N C11 CAP_CER_0.1UF_100V_10%_X7R_0603 ;0=1,1=0.0350
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Dielectric_Code 'X7R'
+PRP Tolerance '10%'
+PRP Voltage_Rating '100V'
+TOP 0 4.795 0.8325748 180 N 30 0 1
+TOP 1 4.795 0.7794252 180 N 23 8 2
+#

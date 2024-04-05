@@ -1,0 +1,444 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 0 3.7941299 2.284 90 N P1 61300211121 ;0=2,1=0.3362
+PRP Color 'Black'
+PRP Connector_Type 'Male Pin'
+PRP Contact_Gender 'Male'
+PRP Contact_Material 'Copper'
+PRP Contact_Mating_Length '5.9944mm'
+PRP Contact_Plating 'Gold'
+PRP Contact_Resistance '20mO'
+PRP Current_Rating '3A'
+PRP Gender 'Male'
+PRP Height '8.94mm'
+PRP Housing_Material 'PBT'
+PRP Lead_Free 'Lead Free'
+PRP Lead_Pitch '2.54mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Through Hole'
+PRP NexarPartId '20081794'
+PRP Number_of_Contacts '2'
+PRP Number_of_Pins '2'
+PRP Number_of_Positions '2'
+PRP Number_of_Rows '1'
+PRP Operating_Supply_Voltage '250V'
+PRP Orientation 'Vertical'
+PRP Packaging 'Bulk'
+PRP Pitch '2.54mm'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS 'Compliant'
+PRP Termination 'Through Hole'
+PRP Voltage_Rating '250V'
+TOP 0 3.7941299 2.334 90 N 2 1 1
+TOP 1 3.7941299 2.234 90 N 1 1 2
+#
+# CMP 1
+CMP 12 4.554 1.551 0 N Y1 12MHz ;0=1,1=0.0394
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/ABM8G-12.000MHZ-4Y-T3/Abracon+LLC/view-part/?ref=eda'
+PRP MF 'Abracon'
+PRP MP 'ABM8G-12.000MHZ-4Y-T3'
+PRP Package 'SMD-4 Abracon'
+PRP Price 'None'
+PRP Purchase-URL 'https://pricing.snapeda.com/search/part/ABM8G-12.000MHZ-4Y-T3/?ref=eda'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/ABM8G-12.000MHZ-4Y-T3/Abracon+LLC/view-part/?ref=snap'
+PRP Value ''
+TOP 0 4.5205354 1.5943071 0 N 4 0 1
+TOP 1 4.5205354 1.5076929 0 N 23 34 2
+TOP 2 4.5874646 1.5076929 0 N 3 0 3
+TOP 3 4.5874646 1.5943071 0 N 23 35 4
+#
+# CMP 2
+CMP 8 4.198 2.274 90 N U4 W25Q128JVSIQ ;0=1,1=0.0000
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/W25Q128JVSIQ/Winbond+Electronics/view-part/?ref=eda'
+PRP MF 'Winbond Electronics'
+PRP MP 'W25Q128JVSIQ'
+PRP Package 'SOIC-8 Winbond'
+PRP Price 'None'
+PRP Purchase-URL 'https://pricing.snapeda.com/search/part/W25Q128JVSIQ/?ref=eda'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/W25Q128JVSIQ/Winbond+Electronics/view-part/?ref=snap'
+PRP Value ''
+TOP 0 4.273 2.4159291 90 N 26 1 1
+TOP 1 4.223 2.4159291 90 N 7 0 2
+TOP 2 4.173 2.4159291 90 N 6 0 3
+TOP 3 4.123 2.4159291 90 N 23 30 4
+TOP 4 4.123 2.1320709 90 N 8 0 5
+TOP 5 4.173 2.1320709 90 N 10 0 6
+TOP 6 4.223 2.1320709 90 N 5 0 7
+TOP 7 4.273 2.1320709 90 N 32 23 8
+#
+# CMP 3
+CMP 6 4.6031339 1.8487638 0 N U1 RP2040_1 ;0=1,1=0.0354
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/RP2040/Raspberry+Pi/view-part/?ref=eda'
+PRP MF 'Raspberry Pi'
+PRP MP 'RP2040'
+PRP Package 'None'
+PRP Price 'None'
+PRP Purchase-URL 'https://pricing.snapeda.com/search/part/RP2040/?ref=eda'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/RP2040/Raspberry+Pi/view-part/?ref=snap'
+PRP Value ''
+TOP 0 4.4678977 1.951126 0 N 32 20 1
+TOP 1 4.4678977 1.935378 0 N 0 29 2
+TOP 2 4.4678977 1.9196299 0 N 0 28 3
+TOP 3 4.4678977 1.9038819 0 N 0 27 4
+TOP 4 4.4678977 1.8881339 0 N 0 26 5
+TOP 5 4.4678977 1.8723858 0 N 0 25 6
+TOP 6 4.4678977 1.8566378 0 N 0 24 7
+TOP 7 4.4678977 1.8408898 0 N 0 23 8
+TOP 8 4.4678977 1.8251418 0 N 0 22 9
+TOP 9 4.4678977 1.8093937 0 N 32 21 10
+TOP 10 4.4678977 1.7936457 0 N 0 21 11
+TOP 11 4.4678977 1.7778977 0 N 0 20 12
+TOP 12 4.4678977 1.7621496 0 N 0 19 13
+TOP 13 4.4678977 1.7464016 0 N 0 18 14
+TOP 14 4.5007717 1.7135276 0 N 0 35 15
+TOP 15 4.5165197 1.7135276 0 N 0 34 16
+TOP 16 4.5322678 1.7135276 0 N 0 33 17
+TOP 17 4.5480158 1.7135276 0 N 0 32 18
+TOP 18 4.5637638 1.7135276 0 N 23 39 19
+TOP 19 4.5795119 1.7135276 0 N 4 2 20
+TOP 20 4.5952599 1.7135276 0 N 20 0 21
+TOP 21 4.6110079 1.7135276 0 N 32 26 22
+TOP 22 4.6267559 1.7135276 0 N 33 3 23
+TOP 23 4.642504 1.7135276 0 N 2 0 24
+TOP 24 4.658252 1.7135276 0 N 1 0 25
+TOP 25 4.674 1.7135276 0 N 9 3 26
+TOP 26 4.6897481 1.7135276 0 N 0 31 27
+TOP 27 4.7054961 1.7135276 0 N 0 30 28
+TOP 28 4.7383701 1.7464016 0 N 0 17 29
+TOP 29 4.7383701 1.7621496 0 N 0 16 30
+TOP 30 4.7383701 1.7778977 0 N 0 15 31
+TOP 31 4.7383701 1.7936457 0 N 0 14 32
+TOP 32 4.7383701 1.8093937 0 N 32 14 33
+TOP 33 4.7383701 1.8251418 0 N 0 13 34
+TOP 34 4.7383701 1.8408898 0 N 0 12 35
+TOP 35 4.7383701 1.8566378 0 N 0 11 36
+TOP 36 4.7383701 1.8723858 0 N 0 10 37
+TOP 37 4.7383701 1.8881339 0 N 27 2 38
+TOP 38 4.7383701 1.9038819 0 N 28 2 39
+TOP 39 4.7383701 1.9196299 0 N 0 9 40
+TOP 40 4.7383701 1.935378 0 N 0 8 41
+TOP 41 4.7383701 1.951126 0 N 32 8 42
+TOP 42 4.7054961 1.984 0 N 32 10 43
+TOP 43 4.6897481 1.984 0 N 32 9 44
+TOP 44 4.674 1.984 0 N 33 1 45
+TOP 45 4.658252 1.984 0 N 25 3 46
+TOP 46 4.6425197 1.984 0 N 24 3 47
+TOP 47 4.6267559 1.984 0 N 32 17 48
+TOP 48 4.6110079 1.984 0 N 32 18 49
+TOP 49 4.5952599 1.984 0 N 33 4 50
+TOP 50 4.5795119 1.984 0 N 5 1 51
+TOP 51 4.5637638 1.984 0 N 10 1 52
+TOP 52 4.5480158 1.984 0 N 8 1 53
+TOP 53 4.5322678 1.984 0 N 6 1 54
+TOP 54 4.5165197 1.984 0 N 7 1 55
+TOP 55 4.5007717 1.984 0 N 26 2 56
+TOP 56 4.6031339 1.8487638 0 N 23 38 57
+#
+# CMP 4
+CMP 11 4.99 1.501 90 N SW2 PTS815_SJM_250_SMTR_LFS ;0=1,1=0.0000
+PRP Mfr_Name 'C&K Components'
+PRP RefDes 'RefDes'
+PRP Type 'Type'
+TOP 0 5.0323228 1.5895827 90 N 9 1 1
+TOP 1 5.0323228 1.4124173 90 N 23 42 2
+TOP 2 4.9476772 1.5895827 90 N 9 2 3
+TOP 3 4.9476772 1.4124173 90 N 23 43 4
+#
+# CMP 5
+CMP 11 4.041 1.805 270 N SW1 PTS815_SJM_250_SMTR_LFS ;0=1,1=0.0000
+PRP Mfr_Name 'C&K Components'
+PRP RefDes 'RefDes'
+PRP Type 'Type'
+TOP 0 3.9986772 1.7164173 270 N 0 36 1
+TOP 1 3.9986772 1.8935827 270 N 19 1 2
+TOP 2 4.0833228 1.7164173 270 N 0 37 3
+TOP 3 4.0833228 1.8935827 270 N 23 21 4
+#
+# CMP 6
+CMP 7 4.025 1.983 0 N R7 RES_1K_OHM_1%_1/10W_0603 ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '1k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 3.9984252 1.983 270 N 19 0 1
+TOP 1 4.0515748 1.983 270 N 26 0 2
+#
+# CMP 7
+CMP 7 4.6111417 2.3759843 270 N R6 RES_22.1_OHM_1%_1/10W_0603 ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Voltage_Rating '75V'
+TOP 0 4.6111417 2.3494095 180 N 24 1 1
+TOP 1 4.6111417 2.4025591 180 N 24 2 2
+#
+# CMP 8
+CMP 7 4.6899213 2.376 270 N R5 RES_22.1_OHM_1%_1/10W_0603 ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Voltage_Rating '75V'
+TOP 0 4.6899213 2.3494252 180 N 25 1 1
+TOP 1 4.6899213 2.4025748 180 N 25 2 2
+#
+# CMP 9
+CMP 7 4.7569843 2.5994882 270 N R4 RES_5.1K_OHM_1%_1/10W_0603 ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '5.1k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 4.7569843 2.5729134 180 N 23 46 1
+TOP 1 4.7569843 2.626063 180 N 22 1 2
+#
+# CMP 10
+CMP 7 4.5050157 2.5994882 270 N R3 RES_5.1K_OHM_1%_1/10W_0603 ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '5.1k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 4.5050157 2.5729134 180 N 23 28 1
+TOP 1 4.5050157 2.626063 180 N 21 0 2
+#
+# CMP 11
+CMP 7 4.667 1.5794094 90 N R2 RES_1K_OHM_1%_1/10W_0603 ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '1k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 4.667 1.6059842 0 N 20 1 1
+TOP 1 4.667 1.5528346 0 N 3 2 2
+#
+# CMP 12
+CMP 7 4.9036123 1.7196055 0 N R1 RES_1K_OHM_1%_1/10W_0603 ;0=1,1=0.0177
+PRP Case/Package '0603'
+PRP Power_Rating '100mW'
+PRP Resistance '1k'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Tolerance '1%'
+PRP Voltage_Rating '75V'
+TOP 0 4.8770375 1.7196055 270 N 9 0 1
+TOP 1 4.9301871 1.7196055 270 N 32 12 2
+#
+# CMP 13
+CMP 3 4.6309843 2.9170079 180 N empty_name 216990-0001 ;0=1,1=0.0000
+TOP 0 4.8522441 2.8048032 180 N 0 4 1
+TOP 1 4.4097245 2.8048032 180 N 0 5 2
+TOP 2 4.8522441 2.9622835 180 N 0 6 3
+TOP 3 4.4097245 2.9622835 180 N 0 7 4
+TOP 4 4.7569686 2.7595276 180 N 23 45 A1-B12
+TOP 5 4.7254725 2.7595276 180 N 31 0 A4-B9
+TOP 6 4.6801969 2.7595276 180 N 22 0 A5
+TOP 7 4.6408268 2.7595276 180 N 24 5 A6
+TOP 8 4.6211418 2.7595276 180 N 25 4 A7
+TOP 9 4.5817717 2.7595276 180 N 0 39 A8
+TOP 10 4.5364961 2.7595276 180 N 31 3 A9-B4
+TOP 11 4.505 2.7595276 180 N 23 44 A12-B1
+TOP 12 4.5620867 2.7595276 180 N 21 1 B5
+TOP 13 4.6014567 2.7595276 180 N 24 4 B6
+TOP 14 4.6605119 2.7595276 180 N 25 5 B7
+TOP 15 4.6998819 2.7595276 180 N 0 38 B8
+#
+# CMP 14
+CMP 5 4.6505315 2.5620866 0 N D1 PRTR5V0U2X,215 ;0=1,1=0.0000
+TOP 0 4.6111614 2.5916142 0 N 23 22 1
+TOP 1 4.6111614 2.524685 0 N 24 0 2
+TOP 2 4.6899016 2.524685 0 N 25 0 3
+TOP 3 4.6899016 2.5994882 0 N 31 4 4
+#
+# CMP 15
+CMP 1 4.363 2.159 90 N C16 CAP_CER_0.1UF_100V_10%_X7R_0603 ;0=1,1=0.0350
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Dielectric_Code 'X7R'
+PRP Tolerance '10%'
+PRP Voltage_Rating '100V'
+TOP 0 4.363 2.1855748 0 N 23 20 1
+TOP 1 4.363 2.1324252 0 N 32 22 2
+#
+# CMP 16
+CMP 1 4.4459059 2.1159999 90 N C14 CAP_CER_0.1UF_100V_10%_X7R_0603 ;0=1,1=0.0350
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Dielectric_Code 'X7R'
+PRP Tolerance '10%'
+PRP Voltage_Rating '100V'
+TOP 0 4.4459059 2.1425747 0 N 23 23 1
+TOP 1 4.4459059 2.0894251 0 N 33 5 2
+#
+# CMP 17
+CMP 1 4.8314603 1.5794091 270 N C13 CAP_CER_0.1UF_100V_10%_X7R_0603 ;0=1,1=0.0350
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Dielectric_Code 'X7R'
+PRP Tolerance '10%'
+PRP Voltage_Rating '100V'
+TOP 0 4.8314603 1.5528343 180 N 23 31 1
+TOP 1 4.8314603 1.6059839 180 N 33 2 2
+#
+# CMP 18
+CMP 1 4.6998819 2.1159999 90 N C12 CAP_CER_1UF_50V_X5R_0603 ;0=1,1=0.0350
+PRP Capacitance '1µF'
+PRP Case/Package '0603'
+PRP Dielectric_Code 'X5R'
+PRP Tolerance '10%'
+PRP Voltage_Rating '50V'
+TOP 0 4.6998819 2.1425747 0 N 23 40 1
+TOP 1 4.6998819 2.0894251 0 N 33 0 2
+#
+# CMP 19
+CMP 1 4.3314251 1.8093939 0 N C10 CAP_CER_0.1UF_100V_10%_X7R_0603 ;0=1,1=0.0350
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Dielectric_Code 'X7R'
+PRP Tolerance '10%'
+PRP Voltage_Rating '100V'
+TOP 0 4.3048503 1.8093939 270 N 23 27 1
+TOP 1 4.3579999 1.8093939 270 N 32 25 2
+#
+# CMP 20
+CMP 1 4.904 1.951126 180 N C9 CAP_CER_0.1UF_100V_10%_X7R_0603 ;0=1,1=0.0350
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Dielectric_Code 'X7R'
+PRP Tolerance '10%'
+PRP Voltage_Rating '100V'
+TOP 0 4.9305748 1.951126 90 N 23 26 1
+TOP 1 4.8774252 1.951126 90 N 32 4 2
+#
+# CMP 21
+CMP 1 4.6014724 2.116 90 N C8 CAP_CER_0.1UF_100V_10%_X7R_0603 ;0=1,1=0.0350
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Dielectric_Code 'X7R'
+PRP Tolerance '10%'
+PRP Voltage_Rating '100V'
+TOP 0 4.6014724 2.1425748 0 N 23 29 1
+TOP 1 4.6014724 2.0894252 0 N 32 19 2
+#
+# CMP 22
+CMP 1 4.752 1.5794252 270 N C7 CAP_CER_0.1UF_100V_10%_X7R_0603 ;0=1,1=0.0350
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Dielectric_Code 'X7R'
+PRP Tolerance '10%'
+PRP Voltage_Rating '100V'
+TOP 0 4.752 1.5528504 180 N 23 41 1
+TOP 1 4.752 1.606 180 N 32 15 2
+#
+# CMP 23
+CMP 1 4.3314252 1.9273317 0 N C6 CAP_CER_0.1UF_100V_10%_X7R_0603 ;0=1,1=0.0350
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Dielectric_Code 'X7R'
+PRP Tolerance '10%'
+PRP Voltage_Rating '100V'
+TOP 0 4.3048504 1.9273317 270 N 23 25 1
+TOP 1 4.358 1.9273317 270 N 32 24 2
+#
+# CMP 24
+CMP 1 4.9040157 1.8093937 180 N C5 CAP_CER_0.1UF_100V_10%_X7R_0603 ;0=1,1=0.0350
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Dielectric_Code 'X7R'
+PRP Tolerance '10%'
+PRP Voltage_Rating '100V'
+TOP 0 4.9305905 1.8093937 90 N 23 24 1
+TOP 1 4.8774409 1.8093937 90 N 32 11 2
+#
+# CMP 25
+CMP 1 4.9036123 2.0241999 180 N C4 CAP_CER_0.1UF_100V_10%_X7R_0603 ;0=1,1=0.0350
+PRP Capacitance '100nF'
+PRP Case/Package '0603'
+PRP Dielectric_Code 'X7R'
+PRP Tolerance '10%'
+PRP Voltage_Rating '100V'
+TOP 0 4.9301871 2.0241999 90 N 23 33 1
+TOP 1 4.8770375 2.0241999 90 N 32 5 2
+#
+# CMP 26
+CMP 1 4.776 2.116 90 N C3 CAP_CER_1UF_50V_X5R_0603 ;0=1,1=0.0350
+PRP Capacitance '1µF'
+PRP Case/Package '0603'
+PRP Dielectric_Code 'X5R'
+PRP Tolerance '10%'
+PRP Voltage_Rating '50V'
+TOP 0 4.776 2.1425748 0 N 23 32 1
+TOP 1 4.776 2.0894252 0 N 32 7 2
+#
+# CMP 27
+CMP 4 4.44 1.565 90 N C2 15pF ;0=1,1=0.0000
+PRP Capacitance '15pF'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Depth '0.8mm'
+PRP Dielectric 'C0G'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Insulation_Resistance '100GR'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'CC'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.035inch'
+PRP Tolerance '5%'
+PRP Voltage_Rating '50V'
+PRP Width '0.031inch'
+TOP 0 4.44 1.5945273 90 N 4 1 1
+TOP 1 4.44 1.5354727 90 N 23 37 2
+#
+# CMP 28
+CMP 4 4.667 1.455 90 N C1 15pF ;0=1,1=0.0000
+PRP Capacitance '15pF'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Depth '0.8mm'
+PRP Dielectric 'C0G'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Insulation_Resistance '100GR'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'CC'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.035inch'
+PRP Tolerance '5%'
+PRP Voltage_Rating '50V'
+PRP Width '0.031inch'
+TOP 0 4.667 1.4845273 90 N 3 1 1
+TOP 1 4.667 1.4254727 90 N 23 36 2
+#

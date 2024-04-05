@@ -1,0 +1,10 @@
+Output: IPC-D-356 Netlist
+Type  : Test Points
+From  : PCB Document [HEBoard_ver4.PcbDoc]
+   Generated File[_PCB PN_.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:42:12 AM On 4/5/2024
