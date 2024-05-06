@@ -1,4 +1,6 @@
 # HEBoard
+## OUTDATED SEE BRANCH ver4
+
 The HEBoard (Hall-Effect Board) is an analog hall-effect Keypad capable of adjustable actuation point, actuation upon release, and adjustable actuation force (WIP).
 
 ## Table Of Contents:
